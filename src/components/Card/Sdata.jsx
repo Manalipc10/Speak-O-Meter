@@ -1,38 +1,38 @@
-import story1 from "./sample.jpg";
-import story2 from "./sample.jpg";
-import story3 from "./sample.jpg";
-import story4 from "./sample.jpg";
-import story5 from "./sample.jpg";
-import story6 from "./sample.jpg";
+import img from "../Images/sample.jpg";
+// import story2 from "./Images/sample.jpg";
+// import story3 from "./Images/sample.jpg";
+// import story4 from "./Images/sample.jpg";
+// import story5 from "./Images/sample.jpg";
+// import story6 from "./Images/sample.jpg";
 
 const Sdata=[
     {
-        imgsrc:story1,
+        imgsrc:{img},
         title:"Story 1",
     },
 
     {
-        imgsrc:story2,
+        imgsrc:{img},
         title:"Story 2",
     },
 
     {
-        imgsrc:story3,
+        imgsrc:{img},
         title:"Story 3",
     },
 
     {
-        imgsrc:story4,
+        imgsrc:{img},
         title:"Story 4",
     },
 
     {
-        imgsrc:story5,
+        imgsrc:{img},
         title:"Story 5",
     },
 
     {
-        imgsrc:story6,
+        imgsrc:{img},
         title:"Story 6",
     },
 
